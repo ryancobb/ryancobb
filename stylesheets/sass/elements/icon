@@ -1,0 +1,32 @@
+/* line 1, icon.sass */
+.icon {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  height: 1.5rem;
+  vertical-align: top;
+  width: 1.5rem; }
+  /* line 8, icon.sass */
+  .icon .fa {
+    font-size: 21px; }
+  /* line 11, icon.sass */
+  .icon.is-small {
+    height: 1rem;
+    width: 1rem; }
+    /* line 14, icon.sass */
+    .icon.is-small .fa {
+      font-size: 14px; }
+  /* line 16, icon.sass */
+  .icon.is-medium {
+    height: 2rem;
+    width: 2rem; }
+    /* line 19, icon.sass */
+    .icon.is-medium .fa {
+      font-size: 28px; }
+  /* line 21, icon.sass */
+  .icon.is-large {
+    height: 3rem;
+    width: 3rem; }
+    /* line 24, icon.sass */
+    .icon.is-large .fa {
+      font-size: 42px; }
